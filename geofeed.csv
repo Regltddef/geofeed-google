@@ -6,7 +6,7 @@
 2a13:2d45::/32,BE,BE-BRU,Brussels,1120
 2a13:2d46::/32,AT,AT-9,Vienna, 1010
 2a13:2d47::/32,ES,ES-MD,Madrid,28001
-2a13:c700::/29,GB,GB-LND,London,E1 7DG
+2a13:c900::/29,NL,NL-NH,Amsterdam,1012
 2a13:d700::/29,GB,GB-LND,London,E1 7DG
 2a13:d901::/32,SI,SI-061,Ljubljana,1000,
 2a13:d902::/32,BA,BA-09,Sarajevo,,
