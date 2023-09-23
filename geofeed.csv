@@ -22,3 +22,5 @@
 2a13:2dc5::/32,HU,HU-BU,Budapest,
 2a13:2dc6::/32,IE,IE-L,Dublin,
 2a13:2dc7::/32,IL,IL-JM,Jerusalem,
+2a06:35c0::/30,US,US-DC,Washington,99301
+2a06:35c4::/30,CA,CA-ON,Toronto,M4C 1E1
