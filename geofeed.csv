@@ -7,6 +7,7 @@
 2a13:2d46::/32,AT,AT-9,Vienna, 1010
 2a13:2d47::/32,ES,ES-MD,Madrid,28001
 2a13:d700::/29,GB,GB-LND,London,E1 7DG
+2a13:d900::/32,SK,SK-BL,Bratislava,851 01
 2a13:d901::/32,SI,SI-061,Ljubljana,1000,
 2a13:d902::/32,BA,BA-09,Sarajevo,,
 2a13:d903::/32,BG,BG-23,Sofia,,
