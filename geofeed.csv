@@ -7,13 +7,13 @@
 2a13:2d46::/32,AT,AT-9,Vienna, 1010
 2a13:2d47::/32,ES,ES-MD,Madrid,28001
 2a13:d900::/32,SK,SK-BL,Bratislava,851 01
-2a13:d901::/32,SI,SI-061,Ljubljana,1000,
-2a13:d902::/32,BA,BA-09,Sarajevo,,
-2a13:d903::/32,BG,BG-23,Sofia,,
-2a13:d904::/32,HR,HR-21,Zagreb,,
-2a13:d905::/32,CY,CY-01,Nicosia,,
-2a13:d906::/32,CZ,CZ-PR,Prague,106 00,
-2a13:d907::/32,DK,DK-84,Copenhagen,2750,
+2a13:d901::/32,SI,SI-061,Ljubljana,1000
+2a13:d902::/32,BA,BA-09,Sarajevo,
+2a13:d903::/32,BG,BG-23,Sofia,
+2a13:d904::/32,HR,HR-21,Zagreb,
+2a13:d905::/32,CY,CY-01,Nicosia,
+2a13:d906::/32,CZ,CZ-PR,Prague,106 00
+2a13:d907::/32,DK,DK-84,Copenhagen,2750
 2a13:2dc0::/32,EE,EE-37,Tallinn,
 2a13:2dc1::/32,FI,FI-18,Helsinki,
 2a13:2dc2::/32,LV,LV-RIX,Riga,
