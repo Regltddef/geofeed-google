@@ -6,7 +6,6 @@
 2a13:2d45::/32,BE,BE-BRU,Brussels,1120
 2a13:2d46::/32,AT,AT-9,Vienna, 1010
 2a13:2d47::/32,ES,ES-MD,Madrid,28001
-2a13:d700::/29,GB,GB-LND,London,E1 7DG
 2a13:d900::/32,SK,SK-BL,Bratislava,851 01
 2a13:d901::/32,SI,SI-061,Ljubljana,1000,
 2a13:d902::/32,BA,BA-09,Sarajevo,,
@@ -33,3 +32,11 @@
 2a13:c905::/32,IN,IN-DL,Delhi,
 2a13:c906::/32,RU,RU-MOW,Moscow,
 2a13:c907::/32,ZA,ZA-WC,Cape Town,
+2a13:d700::/32,GB,GB-LND,London,E1 7DG
+2a13:d701::/32,BR,BR-RJ,Rio de Janeiro,
+2a13:d702::/32,JP,JP-13,Tokyo,120-0000
+2a13:d703::/32,KR,KR-41,Seoul,100-032
+2a13:d704::/32,ID,ID-JK,Jakarta,
+2a13:d705::/32,MY,MY-14,Kuala Lumpur,
+2a13:d706::/32,PH,PH-00,Manila,
+2a13:d707::/32,TH,TH-10,Bangkok,10160
