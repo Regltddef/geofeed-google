@@ -40,3 +40,8 @@
 2a13:d705::/32,MY,MY-14,Kuala Lumpur,
 2a13:d706::/32,PH,PH-00,Manila,
 2a13:d707::/32,TH,TH-10,Bangkok,10160
+2a0a:6040:7300::/40,US,US-DC,Washington,99301
+2a0a:6040:8a00::/40,US,US-DC,Washington,99301
+2a0a:6040:8c00::/40,US,US-DC,Washington,99301
+2a0a:6040:9900::/40,US,US-DC,Washington,99301
+2a0a:6040:9b00::/40,US,US-DC,Washington,99301
